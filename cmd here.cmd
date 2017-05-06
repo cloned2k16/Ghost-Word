@@ -1,0 +1,3 @@
+@call setEnv
+
+@cmd /t
